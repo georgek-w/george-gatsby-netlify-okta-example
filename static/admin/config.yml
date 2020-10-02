@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: george-kw/george-gatsby-netlify-okta-example
+  repo: georgek-w/george-gatsby-netlify-okta-example
   
 media_folder: static/assets
 public_folder: assets
